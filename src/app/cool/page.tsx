@@ -16,7 +16,7 @@ export default function Kewl() {
       */}
       Hi, I'm Dylan! I'm a third year CS major + Mathematics Minor with a passion for building cool stuff! I enjoy working with React.js and have the most experience with it.
       <br />
-      Even though TypeScript is new to me, I enjoy learning new technologies! It's a challenge, but a welcome one esepcially when it comes to simplifying my work.
+      Even though TypeScript is new to me, I enjoy learning new technologies! It's a challenge, but a welcome one especially when it comes to simplifying my the difficulty of my work.
       <br />
       In my free time, I enjoy hiking, going to the gym, and playing video games. I've recently been addicted to Pokemon Go and Cookie Clicker.
       <br />
